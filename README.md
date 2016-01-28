@@ -2,3 +2,5 @@
 GitHub lesson on collaboration.
 
 README!
+
+Hi there! 
